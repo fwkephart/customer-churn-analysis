@@ -40,8 +40,7 @@ Python · pandas · NumPy · scikit-learn · XGBoost · Matplotlib · Seaborn
 - Customers who churned had average monthly charges of approximately
   $89.35, compared with $77.32 for customers who stayed.
 - The final tuned logistic regression model achieved a mean five-fold
-  cross-validation ROC AUC of approximately **0.797**.
-- Ranked in the top 20% of the class in the modeling competition.
+  cross-validation ROC AUC of approximately **0.797**. This ranked in the top 20% of the class in a modeling competition. 
 
 ## Business Implications
 
